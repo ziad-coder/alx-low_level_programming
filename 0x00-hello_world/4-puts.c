@@ -1,7 +1,11 @@
 #include <stdio.h>
-/*
- * main: entry poit
- * hello world
+
+/**
+ * main - Entry Point
+ *
+ * Description: A C program that prints with puts function
+ *
+ * Return:Always 0 (success)
  */
 int main(void)
 {
