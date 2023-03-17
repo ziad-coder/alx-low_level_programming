@@ -1,5 +1,6 @@
 #include <stdio.h>
 /*
+ * main: entry poit
  * hello world
  */
 int main(void)
