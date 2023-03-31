@@ -1,1 +1,1 @@
- C - More pointers, arrays and strings task
+C - More pointers, arrays and strings task
